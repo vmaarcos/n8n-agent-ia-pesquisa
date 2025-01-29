@@ -6,3 +6,6 @@ OPEN IA API
 
 https://serpapi.com
 serp api
+
+
+Um bot ligado ao gpt 4 + funcionalidade de pesquisar no google pela serp api 
